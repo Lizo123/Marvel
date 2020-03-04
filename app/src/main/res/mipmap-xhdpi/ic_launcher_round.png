@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/data/src/main/java/com/example/data2/datasource/CloudUserDataStore.java" line="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a60ffd0-7ce3-4540-a1e6-657b14cbc9e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/UIThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/ActivityComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/AndroidApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/ApplicationComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/OfferComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/PerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/SignComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/modules/ActivityModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/modules/ApplicationModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/modules/OfferModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/dependencies/modules/SignModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/BaseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/bookAppointment/payment/PaymentMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/bookAppointment/schedule/ScheduleActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/bookAppointment/services/BookServicesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/password/ForgetPassDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/profile/ProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/services/ServicesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/sign/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/sign/SignViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/sign/SignViewModelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/thespa/view/verification/VerificationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_solid_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_password.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_forget_password.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/spinner_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/androidTest/java/com/example/data2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/JobExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/datasource/CloudOfferDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/datasource/CloudUserDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/datasource/DiskUserDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/datasource/OfferDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/datasource/UserDataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/datasource/UserDataStoreFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/entities/APIResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/entities/OfferData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/entities/RemoteOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/entities/RemoteUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/entities/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/entities/UserMobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/mapper/RemoteToLocalMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/com/example/data2/network/APIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sr
