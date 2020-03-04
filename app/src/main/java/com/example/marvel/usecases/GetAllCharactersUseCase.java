@@ -17,6 +17,8 @@ public class GetAllCharactersUseCase extends UseCase<ArrayList<Item>,String> {
 
     private Repository repository;
 
+    
+
     @Inject
     public GetAllCharactersUseCase(Repository repository,ThreadExecutor threadExecutor, PostExecutionThread postExecutionThread) {
         super(threadExecutor, postExecutionThread);
